@@ -2,35 +2,35 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "name": "王伟奎",
+        "description": "Living,Programming,Thinking",
+        "school": "淮海工学院",
+        "profession": "软件工程",
         "sex": "男",
         "education" : "本科",
         "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "phone": "18861339381",
+        "email": "weikuiwang@outlook.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/WeikuiWang",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
+            "link": "http://weibo.com/u/5495669472",
             "icon": ""
         },
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
+            "link": "https://cn.linkedin.com/in/weikui-wang-b17508116",
             "icon": ""
         },
         {
             "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
+            "link": "https://twitter.com/WeikuiWang",
             "icon": ""
         },
         {
@@ -118,7 +118,7 @@
         },
         {
             "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
+            "name_link": "https://github.com/WeikuiWang",
             "title": "",
             "icon": "",
             "description": "",
