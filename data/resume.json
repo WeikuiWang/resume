@@ -1,5 +1,5 @@
 {
-    "avatar": "/resume/data/1.jpg",
+    "avatar": "/resume/data/2.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "王伟奎",
@@ -35,85 +35,103 @@
         },
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "http://wangweikui.com",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "2012.9-2016.6 大学期间每学期均获得校奖学金"
         },
         {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "2012年10月 被评为“军训优秀学员”"
         },
         {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "2013年5月 被评为校级“优秀团员”"
         },
         {
-            "name": "2013百度校园助手大赛优秀开发奖"
+            "name": "2012年12月 荣获校青年志愿者协会“志愿者之星”称号"
         },
         {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+            "name": "2013年4月 全校乒乓球联赛团队优秀奖"
+        }
+		{
+            "name": "2014年11月 被评为校级“优秀学生干部”"
         }
     ],
     "socialExperiences": [
-        {
-            "name": "加入袂卓移动开发工作室",
-            "name_link": "meizhuo.org",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+		{
+            "name": "淮海工学院大学生乒乓球协会",
+            "name_link": "",
+            "description": "兴趣社团，交流兴趣爱好，结交同学好友，提升个人情操"
         },
-        {
-            "name": "组织3次校内开发者交流会",
-            "name_link": "http://wuyiuniversity.github.io/",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+		{
+            "name": "淮海工学院青年志愿者协会",
+            "name_link": ""
+            "description": "生活不只代码，还有周围的他人。校内运用专业技能协助同学解决电脑疑难，校外奉献爱心关注农村小学和特殊儿童"
         }
+        {
+            "name": "连云港瑞天兼职中心",
+            "name_link": "",
+            "description": "校周边可靠的兼职中心，大一入学后就加入其中开始了充实愉快的学习和兼职经历"
+        },
+        
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
+            "name": "连云港汣风文化传媒有限公司",
+            "name_link": "http://jiufeng2009.com/",
+            "title": "网站建设微信开发",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "description": "在该校企合作公司中负责网店装修、微信开发、网站建设等工作，了解了电子商务公司产品的开发设计、运营推广等工作内容，同时培养了美工设计鉴赏能力及专业技能的实践能力。",
+            "time": "2014.04 - 2015.10",
+            "location": "江苏 连云港"
         },
         {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
+            "name": "微软中国（上海）有限公司",
+            "name_link": "https://www.microsoft.com/zh-cn",
+            "title": "软件开发实习生",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "在微软CSS团队，协助导师完成一个内容管理平台的数据迁移和批量文本文件的自动化处理工作，以及MSDN系统后台的维护工作，了解了正规的软件开发工作流程和团队合作的重要性，纯英文办公使自己能够较为熟练的运用英文",
+            "time": "2015.11 - 2016.04",
+            "location": "上海"
         }
     ],
     "ProjectExperience": [
         {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "东莞技能培训中心",
+            "name": "网店装修",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "淘宝，天猫，京东等网络店铺的装修",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "在连云港汣风公司负责过近百个网络店铺的首页设计，详情页设计，首页装修等工作，熟悉电子商务技术支持和运营推广等业务领域工作",
+            "time": "2014.04 - 2015.10",
             "location": ""
         },
         {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
+            "name": "《淮工微生活》微信平台",
+            "name_link": "",
+            "title": "校内知名微信服务平台",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
+            "description": "微信公众号：huaigong1985,负责完成整个平台的内容设计和后台管理，根据校内活动更改平台版本，已成功运营成为校内知名的信息服务平台",
             "time": "2014.10 - 至今",
+            "location": ""
+        },
+        {
+            "name": "个人博客",
+            "name_link": "https://wangweikui.com",
+            "title": "GitHub,Hexo",
+            "icon": "",
+            "description": "托管于GitHub的个人博客，基于markdown编辑，域名个人完成注册解析，不间断维护",
+            "time": "2016.3 - 至今",
+            "location": ""
+        },
+		{
+            "name": "MSDN后台维护",
+            "name_link": "https://blogs.msdn.microsoft.com/onecode/",
+            "title": "微软官方技术博客后台的日常维护",
+            "icon": "",
+            "description": "通过管理员账号登陆系统后台，完成系统日常更新和异常处理工作",
+            "time": "2015.11 - 2016.04",
             "location": ""
         },
         {
