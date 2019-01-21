@@ -107,25 +107,25 @@
 	{
             "name": "上海黄金交易所黄金交易系统国际板",
             "name_link": "https://www.sge.com.cn/cpfw/gjb",
-            "title": "JAVA, ASP.NET",
+            "title": "JAVA, ASP.NET, ORACLE",
             "icon": "",
-            "description": "参与到上金所黄金交易系统国际板2017年度大版本的升级改造项目，负责功能模块的设计开发和不同环境的问题修复",
+            "description": "参与到上金所黄金交易系统国际板2017年度大版本的升级改造项目，负责功能模块的设计开发和不同环境的问题修复。",
             "time": "2016.07 - 2017.04",
             "location": ""
         },
 	{
             "name": "上海金定价交易系统",
             "name_link": "https://www.sge.com.cn/cpfw/cpdj",
-            "title": "JAVA, ASP.NET",
+            "title": "JAVA, ASP.NET, ORACLE",
             "icon": "",
-            "description": "作为技术经理负责项目两期重大升级中的主要设计、开发和问题攻关，并带领小组成员了解项目全局设计和业务流程",
+            "description": "作为技术经理负责项目两期重大升级中的主要设计、开发和问题攻关，并带领小组成员了解项目全局设计和业务流程。",
             "time": "2017.04 - 2018.07",
             "location": ""
         },
 	{
             "name": "平安不动产私募基金控台",
             "name_link": "http://realestate.pingan.com/fund/home.html",
-            "title": "SSM, Redis, Dubbo",
+            "title": "JAVA, SSM, Redis, Dubbo",
             "icon": "",
             "description": "负责基金控台后台的架构设计和升级改造，不同功能模块的实现和多环境部署。",
             "time": "2018.07 - 至今",
