@@ -85,32 +85,50 @@
             "location": "上海"
         }
     ],
-    "ProjectExperience": [
-        {
-            "name": "网店装修",
-            "name_link": "",
-            "title": "淘宝，天猫，京东等网络店铺的装修",
-            "icon": "",
-            "description": "在连云港汣风公司负责过近百个网络店铺的首页设计，详情页设计，首页装修等工作，熟悉电子商务技术支持和运营推广等业务领域工作。",
-            "time": "2014.04 - 2015.10",
-            "location": ""
-        },
+    "ProjectExperience": [        
         {
             "name": "个人博客",
             "name_link": "https://wangweikui.com",
             "title": "GitHub,Hexo",
             "icon": "",
-            "description": "托管于GitHub的个人博客，基于markdown编辑，域名个人完成注册解析，不间断维护。",
+            "description": "托管于GitHub的个人博客，完成域名注册解析绑定，不间断维护。",
             "time": "2016.3 - 至今",
             "location": ""
-        },
-		{
-            "name": "MSDN后台维护",
+        },	
+	{
+            "name": "MSDN后台升级",
             "name_link": "https://blogs.msdn.microsoft.com/onecode/",
-            "title": "微软官方技术博客后台的日常维护",
+            "title": "ASP.NET",
             "icon": "",
-            "description": "通过管理员账号登陆系统后台，完成系统日常更新和异常处理工作。",
+            "description": "期间完成该技术博客平台版本升级、日常更新和异常处理工作。",
             "time": "2015.11 - 2016.04",
+            "location": ""
+        },
+	{
+            "name": "上海黄金交易所黄金交易系统国际板",
+            "name_link": "https://www.sge.com.cn/cpfw/gjb",
+            "title": "JAVA, ASP.NET",
+            "icon": "",
+            "description": "参与到上金所黄金交易系统国际板2017年度大版本的升级改造项目，负责功能模块的设计开发和不同环境的问题修复",
+            "time": "2016.07 - 2017.04",
+            "location": ""
+        },
+	{
+            "name": "上海金定价交易系统",
+            "name_link": "https://www.sge.com.cn/cpfw/cpdj",
+            "title": "JAVA, ASP.NET",
+            "icon": "",
+            "description": "作为技术经理负责项目两期重大升级中的主要设计、开发和问题攻关，并带领小组成员了解项目全局设计和业务流程",
+            "time": "2017.04 - 2018.07",
+            "location": ""
+        },
+	{
+            "name": "平安不动产私募基金控台",
+            "name_link": "http://realestate.pingan.com/fund/home.html",
+            "title": "SSM, Redis, Dubbo",
+            "icon": "",
+            "description": "负责基金控台后台的架构设计和升级改造，不同功能模块的实现和多环境部署。",
+            "time": "2018.07 - 至今",
             "location": ""
         },
         {
